@@ -59,3 +59,15 @@ Instructions:
 ## Resources
 
 - [Python classes](https://docs.python.org/3/tutorial/classes.html)
+
+
+# Pet and Owner Management
+
+## Overview
+This project implements a one-to-many relationship between `Owner` and `Pet` classes.
+
+## Setup
+1. Install dependencies:
+   ```sh
+   pipenv install
+   pipenv shell
